@@ -15,10 +15,10 @@ highlighter: pygments
 
 
 ### content configuration ###
-title:       "SinglePaged - Title: Edit me in _config.yml!"
-keywords:    "SinglePaged, jekyll, template, github, blog, single page"
-description: "A single-page template for Jekyll based blogs (like what you'd use on github pages!)"
-source_link: "https://github.com/t413/SinglePaged"
+title:       "弈城助手"
+keywords:    "弈城,围棋,辅助,工具"
+description: "一个弈城围棋的辅助工具 - 多账户同开|自动邀请|同步形势判断|ZEN辅助计算|全自动对局"
+source_link: "https://github.com/ychelper"
 favicon:     #put a path like: "img/favicon.ico"
 touch_icon:  #put a path like: "img/apple-touch-icon.png"
 google_analytics_key: ## put YOUR key here to enable tracking! (blank to disable)
@@ -27,10 +27,13 @@ google_analytics_key: ## put YOUR key here to enable tracking! (blank to disable
 ### template colors, used site-wide via css ###
 colors:
   black:     '#111111'
-  white:     '#f8f8f8'
-  blue:      '#49a7e9'
-  green:     '#9bcf2f'
-  purple:    '#c869bf'
-  orange:    '#fab125'
-  turquoise: '#0fbfcf'
-  
+  white:     '#F8F8F8'
+  blue:      '#49A7E9'
+  green:     '#9BCF2F'
+  purple:    '#C869BF'
+  orange:    '#FAB125'
+  turquoise: '#0FBFCF'
+  brown:     '#A76646'
+  grey:      '#B48078'
+  beige:     '#F9EAD5'
+  red:       '#8B3E2A'
